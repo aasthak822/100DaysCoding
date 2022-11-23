@@ -1,5 +1,5 @@
 
-PROBLEM TO BE SOLVED :
+/*PROBLEM TO BE SOLVED :
 To reverse the given number.
 
 INPUT SAMPLE :
@@ -12,7 +12,7 @@ TEST CASE 1
 If the number has same digits or palindrome number like 1111.
 
 
-SOLUTION :
+SOLUTION :*/
 
 public class reverseTheNum {
 	
