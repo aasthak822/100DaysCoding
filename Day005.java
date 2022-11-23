@@ -1,4 +1,4 @@
-PROBLEM TO BE SOLVED :
+/*PROBLEM TO BE SOLVED :
 Check for palindrome number
 
 1 SAMPLE INPUT 
@@ -11,7 +11,7 @@ Check for palindrome number
   OUTPUT EXPECTED 
    Not Palindrome
  
-SOLUTION :
+SOLUTION :*/
 
 import java.util.Scanner;
 
@@ -38,10 +38,10 @@ public class Palindrome {
 }
 
 
-TEST CASES 1 :
+/*TEST CASES 1 :
 If the input contains symbols or alphabets.
 If NULL.
-If the number is not palindrome.
+If the number is not palindrome.*/
 
 
 
