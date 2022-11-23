@@ -1,4 +1,4 @@
-Program to print the sum of odd and even numbers.
+/*Program to print the sum of odd and even numbers.*/
 
 import java.util.*;
 
