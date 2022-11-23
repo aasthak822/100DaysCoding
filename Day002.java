@@ -1,6 +1,6 @@
  
 
-PROBLEM TO BE SOLVED -
+/*PROBLEM TO BE SOLVED -
 
 * Given an integer, print its first 10 multiples. Each multiple n*i should be printed on a new line in the form: n x i = result.
 * Constraints - 2<=n<=20
@@ -18,7 +18,8 @@ PROBLEM TO BE SOLVED -
 2 x 9 = 18
 2 x 10 = 20
 
-PROBLEM SOLVED :
+PROBLEM SOLVED :*/
+
 
 import java.io.*;
 import java.util.*;
@@ -41,7 +42,7 @@ System.out.println(n +" x "+i+" = "+result);
   }
 }
 
-*TEST CASE 1
+/* *TEST CASE 1
 
 Compiler Message
 Success
@@ -75,5 +76,5 @@ Expected Output
 19 x 7 = 133
 19 x 8 = 152
 19 x 9 = 171
-19 x 10 = 190
+19 x 10 = 190*/
 
