@@ -11,7 +11,7 @@ SOLUTION*/
 import java.util.*;
 
 public class IncomeTax {
-	public static void main(String args[]) {
+	public static void  main(String args[]) {
 		int tax;
 		
 		Scanner sc=new Scanner(System.in);
@@ -27,6 +27,7 @@ public class IncomeTax {
 			tax=(int)(Income*(0.3));
 		}
 		System.out.println("Your tax is : "+tax);
+		
 		sc.close();
 	}
 
