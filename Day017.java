@@ -11,12 +11,14 @@ public class LinearSearch {
 		return -1;
 	}
 public static void main(String args[]) {
+
 		int number[]= {2,4,7,3,8,9,10};
 		int key =10;
 		int index=linearSearch(number,key);
 		if(index==-1) {
 			System.out.println("Not Found");
 		}
+		
 		System.out.println("key found");
 	}
 	
