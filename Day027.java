@@ -1,4 +1,4 @@
-/* Perform Selection SOrt 
+/* Perform Selection Sort 
 SOLUTION */
 
 public class SelectionSort {
